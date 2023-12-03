@@ -22,7 +22,7 @@ body {
 
 <div class="center_div">
   <h1>Hello World!</h1>
- 
+  <h2>Welcome</h2>
 </div>
 
 </body>
